@@ -1,0 +1,31 @@
+name,city,state,team_name,capacity,yr_built,conference,been_finals,won_championship,avg_home_attend,fci
+Philips Arena,Atlanta,Georgia,Atlanta Hawks,18118,1999,Eastern,Yes,Yes,15958,255.28
+TD Garden,Boston,Massachusetts,Boston Celtics,18624,1995,Eastern,Yes,Yes,18553,419.96
+Barclays Center,Brooklyn,New York,Brooklyn Nets,17732,2012,Eastern,Yes,No,15429,404.6
+Spectrum Center,Charlotte,North Carolina,Charlotte Hornets,19077,2005,Eastern,No,No,17332,212.4
+United Center,Chicago,Illinois,Chicago Bulls,20917,1994,Eastern,Yes,Yes,21680,477.32
+Quicken Loans Arena,Cleveland,Ohio,Cleveland Cavaliers,20562,1994,Eastern,Yes,Yes,20562,274.48
+American Airlines Center,Dallas,Texas,Dallas Mavericks,19200,2001,Western,Yes,Yes,19789,281.02
+Pepsi Center,Denver,Colorado,Denver Nuggets,19155,1999,Western,No,No,14770,316.02
+Little Caesars Arena,Detroit,Michigan,Detroit Pistons,20491,2017,Eastern,Yes,Yes,15979,215.68
+Oracle Arena,Oakland,California,Golden State Warriors,19596,1966,Western,Yes,Yes,19596,471.36
+Toyota Center,Houston,Texas,Houston Rockets,18055,2003,Western,Yes,Yes,16973,376.42
+Bankers Life Fieldhouse,Indianapolis,Indiana,Indiana Pacers,17923,1999,Eastern,Yes,No,16697,257.4
+Staples Center,Los Angeles,California,Los Angeles Clippers,19060,1999,Western,No,No,19088,437.82
+FedExForum,Memphis,Tennessee,Memphis Grizzlies,18119,2004,Western,No,No,16519,223.92
+AmericanAirlines Arena,Miami,Florida,Miami Heat,19600,1999,Eastern,Yes,Yes,19643,465.92
+BMO Harris Bradley Center,Milwaukee,Wisconsin,Milwaukee Bucks,18717,1988,Eastern,Yes,Yes,15828,325.85
+Target Center,Minneapolis,Minnesota,Minnesota Timberwolves,19356,1990,Western,No,No,14809,281.06
+Smoothie King Center,New Orleans,Louisiana,New Orleans Pelicans,16867,1999,Western,No,No,16173,221.8
+Madison Square Garden,New York,New York,New York Knicks,19812,1968,Eastern,Yes,Yes,19774,676.42
+Chesapeake Energy Arena,Oklahoma City,Oklahoma,Oklahoma City Thunder,18203,2002,Western,Yes,Yes,18203,296.4
+Amway Center,Orlando,Florida,Orlando Magic,18846,2010,Eastern,Yes,No,17753,263.1
+Wells Fargo Center,Philadelphia,Pennsylvania,Philadelphia 76ers,20328,1996,Eastern,Yes,Yes,17330,275.74
+Talking Stick Resort Arena,Phoenix,Arizona,Phoenix Suns,18422,1992,Western,Yes,No,17283,341.9
+Moda Center,Portland,Oregon,Portland Trail Blazers,19980,1995,Western,Yes,Yes,19317,319.2
+Golden 1 Center,Sacramento,California,Sacramento Kings,17608,2016,Western,Yes,Yes,17608,285.56
+AT&T Center,San Antonio,Texas,San Antonio Spurs,18418,2002,Western,Yes,Yes,18423,325.52
+Air Canada Centre,Toronto,Ontario,Toronto Raptors,19800,1999,Eastern,No,No,19830,323.69
+Vivint Smart Home Arena,Salt Lake City,Utah,Utah Jazz,19911,1991,Western,Yes,No,19673,275.74
+Capital One Arena,Washington,D.C.,Washington Wizards,20356,1997,Eastern,Yes,Yes,17002,322.2
+Staples Center,Los Angeles,California,Los Angeles Lakers,18997,1999,Western,Yes,Yes,18997,545.08

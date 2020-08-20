@@ -1,0 +1,1093 @@
+Location,Year,Rate
+United States,1984,27.4
+United States,1986,26.5
+United States,1988,24.3
+United States,1990,22.7
+United States,1992,23
+United States,1993,22.6
+United States,1995,22.7
+United States,1996,23.5
+United States,1997,23.2
+United States,1998,22.9
+United States,1999,22.8
+United States,2000,23.2
+United States,2001,23.2
+United States,2002,23.2
+United States,2003,22
+United States,2004,20.9
+United States,2005,20.6
+United States,2006,20.1
+United States,2007,19.8
+United States,2008,18.4
+United States,2009,17.9
+Alabama,1984,NA
+Alabama,1986,24.6
+Alabama,1988,26.2
+Alabama,1990,22.4
+Alabama,1992,21.9
+Alabama,1993,18.5
+Alabama,1995,24.5
+Alabama,1996,22.5
+Alabama,1997,24.7
+Alabama,1998,24.6
+Alabama,1999,23.5
+Alabama,2000,25.2
+Alabama,2001,23.9
+Alabama,2002,24.4
+Alabama,2003,25.3
+Alabama,2004,24.8
+Alabama,2005,24.8
+Alabama,2006,23.2
+Alabama,2007,22.5
+Alabama,2008,22.1
+Alabama,2009,22.5
+Alaska,1984,NA
+Alaska,1986,NA
+Alaska,1988,NA
+Alaska,1990,NA
+Alaska,1992,28.8
+Alaska,1993,26.6
+Alaska,1995,25
+Alaska,1996,27.7
+Alaska,1997,26.7
+Alaska,1998,26
+Alaska,1999,27.2
+Alaska,2000,25
+Alaska,2001,26.1
+Alaska,2002,29.3
+Alaska,2003,26.2
+Alaska,2004,24.8
+Alaska,2005,24.9
+Alaska,2006,24
+Alaska,2007,22.2
+Alaska,2008,21.5
+Alaska,2009,20.6
+Arizona,1984,27.7
+Arizona,1986,24.4
+Arizona,1988,23.5
+Arizona,1990,20.7
+Arizona,1992,19.5
+Arizona,1993,20.7
+Arizona,1995,22.9
+Arizona,1996,23.8
+Arizona,1997,21.1
+Arizona,1998,21.9
+Arizona,1999,20
+Arizona,2000,18.6
+Arizona,2001,21.5
+Arizona,2002,23.4
+Arizona,2003,20.8
+Arizona,2004,18.5
+Arizona,2005,20.2
+Arizona,2006,18.2
+Arizona,2007,19.8
+Arizona,2008,15.9
+Arizona,2009,16.1
+Arkansas,1984,NA
+Arkansas,1986,NA
+Arkansas,1988,NA
+Arkansas,1990,NA
+Arkansas,1992,NA
+Arkansas,1993,26.4
+Arkansas,1995,25.2
+Arkansas,1996,25.4
+Arkansas,1997,28.5
+Arkansas,1998,26
+Arkansas,1999,27.2
+Arkansas,2000,25.1
+Arkansas,2001,25.6
+Arkansas,2002,26.3
+Arkansas,2003,24.8
+Arkansas,2004,25.5
+Arkansas,2005,23.5
+Arkansas,2006,23.7
+Arkansas,2007,22.4
+Arkansas,2008,22.3
+Arkansas,2009,21.5
+California,1984,25.6
+California,1986,24.5
+California,1988,22.2
+California,1990,19.7
+California,1992,20.1
+California,1993,18.4
+California,1995,15.5
+California,1996,18.6
+California,1997,18.4
+California,1998,19.2
+California,1999,18.7
+California,2000,17.2
+California,2001,17.2
+California,2002,16.4
+California,2003,16.8
+California,2004,14.7
+California,2005,15.2
+California,2006,14.9
+California,2007,14.3
+California,2008,14
+California,2009,12.9
+Colorado,1984,NA
+Colorado,1986,NA
+Colorado,1988,NA
+Colorado,1990,21.3
+Colorado,1992,23.8
+Colorado,1993,23.8
+Colorado,1995,21.8
+Colorado,1996,22.8
+Colorado,1997,22.6
+Colorado,1998,22.8
+Colorado,1999,22.5
+Colorado,2000,20
+Colorado,2001,22.4
+Colorado,2002,20.4
+Colorado,2003,18.6
+Colorado,2004,20
+Colorado,2005,19.8
+Colorado,2006,17.9
+Colorado,2007,18.7
+Colorado,2008,17.6
+Colorado,2009,17.1
+Connecticut,1984,NA
+Connecticut,1986,NA
+Connecticut,1988,26.7
+Connecticut,1990,22.2
+Connecticut,1992,22.3
+Connecticut,1993,20.6
+Connecticut,1995,20.8
+Connecticut,1996,21.9
+Connecticut,1997,21.8
+Connecticut,1998,21.1
+Connecticut,1999,22.8
+Connecticut,2000,19.9
+Connecticut,2001,20.8
+Connecticut,2002,19.4
+Connecticut,2003,18.6
+Connecticut,2004,18
+Connecticut,2005,16.5
+Connecticut,2006,17
+Connecticut,2007,15.4
+Connecticut,2008,15.9
+Connecticut,2009,15.4
+D.C.,1984,NA
+D.C.,1986,26.6
+D.C.,1988,20
+D.C.,1990,19.4
+D.C.,1992,19.7
+D.C.,1993,16.4
+D.C.,1995,NA
+D.C.,1996,20.6
+D.C.,1997,18.8
+D.C.,1998,21.6
+D.C.,1999,20.6
+D.C.,2000,20.9
+D.C.,2001,20.8
+D.C.,2002,20.4
+D.C.,2003,22
+D.C.,2004,20.8
+D.C.,2005,20
+D.C.,2006,17.9
+D.C.,2007,17.2
+D.C.,2008,16.2
+D.C.,2009,15.3
+Delaware,1984,NA
+Delaware,1986,NA
+Delaware,1988,NA
+Delaware,1990,23.3
+Delaware,1992,27.9
+Delaware,1993,26
+Delaware,1995,25.5
+Delaware,1996,24.2
+Delaware,1997,26.6
+Delaware,1998,24.5
+Delaware,1999,25.4
+Delaware,2000,22.9
+Delaware,2001,25.1
+Delaware,2002,24.7
+Delaware,2003,21.9
+Delaware,2004,24.3
+Delaware,2005,20.6
+Delaware,2006,21.7
+Delaware,2007,18.9
+Delaware,2008,17.7
+Delaware,2009,18.3
+Florida,1984,NA
+Florida,1986,27.9
+Florida,1988,23.9
+Florida,1990,23.6
+Florida,1992,22.6
+Florida,1993,22
+Florida,1995,23.1
+Florida,1996,21.8
+Florida,1997,23.6
+Florida,1998,22
+Florida,1999,20.7
+Florida,2000,23.2
+Florida,2001,22.5
+Florida,2002,22
+Florida,2003,23.9
+Florida,2004,20.2
+Florida,2005,21.7
+Florida,2006,21
+Florida,2007,19.3
+Florida,2008,17.5
+Florida,2009,17.1
+Georgia,1984,NA
+Georgia,1986,27.2
+Georgia,1988,25.1
+Georgia,1990,24
+Georgia,1992,19.4
+Georgia,1993,23.9
+Georgia,1995,20.5
+Georgia,1996,20.3
+Georgia,1997,22.4
+Georgia,1998,23.7
+Georgia,1999,23.7
+Georgia,2000,23.5
+Georgia,2001,23.7
+Georgia,2002,23.2
+Georgia,2003,22.8
+Georgia,2004,19.9
+Georgia,2005,22.1
+Georgia,2006,19.9
+Georgia,2007,19.4
+Georgia,2008,19.5
+Georgia,2009,17.7
+Hawaii,1984,NA
+Hawaii,1986,24.4
+Hawaii,1988,23.6
+Hawaii,1990,21.1
+Hawaii,1992,19.9
+Hawaii,1993,18.9
+Hawaii,1995,17.8
+Hawaii,1996,NA
+Hawaii,1997,18.6
+Hawaii,1998,19.5
+Hawaii,1999,18.6
+Hawaii,2000,19.7
+Hawaii,2001,20.6
+Hawaii,2002,21
+Hawaii,2003,17.2
+Hawaii,2004,17.2
+Hawaii,2005,17
+Hawaii,2006,17.5
+Hawaii,2007,17
+Hawaii,2008,15.4
+Hawaii,2009,15.4
+Idaho,1984,24.5
+Idaho,1986,23.4
+Idaho,1988,20.1
+Idaho,1990,20.4
+Idaho,1992,19.4
+Idaho,1993,20.2
+Idaho,1995,19.8
+Idaho,1996,21.2
+Idaho,1997,19.9
+Idaho,1998,20.3
+Idaho,1999,21.5
+Idaho,2000,22.3
+Idaho,2001,19.7
+Idaho,2002,20.6
+Idaho,2003,19
+Idaho,2004,17.4
+Idaho,2005,17.9
+Idaho,2006,16.8
+Idaho,2007,19.1
+Idaho,2008,16.8
+Idaho,2009,16.3
+Illinois,1984,33.6
+Illinois,1986,27.8
+Illinois,1988,26.8
+Illinois,1990,24.2
+Illinois,1992,24.7
+Illinois,1993,23.2
+Illinois,1995,23.1
+Illinois,1996,24.8
+Illinois,1997,23.2
+Illinois,1998,23.1
+Illinois,1999,24.2
+Illinois,2000,22.3
+Illinois,2001,23.6
+Illinois,2002,22.8
+Illinois,2003,24.3
+Illinois,2004,22.2
+Illinois,2005,19.9
+Illinois,2006,20.5
+Illinois,2007,20.1
+Illinois,2008,21.3
+Illinois,2009,18.6
+Indiana,1984,25.7
+Indiana,1986,27.2
+Indiana,1988,27.3
+Indiana,1990,26.6
+Indiana,1992,27.5
+Indiana,1993,26.4
+Indiana,1995,27.2
+Indiana,1996,28.7
+Indiana,1997,26.3
+Indiana,1998,26
+Indiana,1999,27
+Indiana,2000,26.9
+Indiana,2001,27.5
+Indiana,2002,27.6
+Indiana,2003,26.1
+Indiana,2004,24.8
+Indiana,2005,27.3
+Indiana,2006,24.1
+Indiana,2007,24.1
+Indiana,2008,26
+Indiana,2009,23.1
+Iowa,1984,NA
+Iowa,1986,NA
+Iowa,1988,22.3
+Iowa,1990,21.7
+Iowa,1992,20
+Iowa,1993,22
+Iowa,1995,23.2
+Iowa,1996,23.6
+Iowa,1997,23.1
+Iowa,1998,23.4
+Iowa,1999,23.5
+Iowa,2000,23.2
+Iowa,2001,22.2
+Iowa,2002,23.2
+Iowa,2003,21.7
+Iowa,2004,20.8
+Iowa,2005,20.4
+Iowa,2006,21.4
+Iowa,2007,19.8
+Iowa,2008,18.7
+Iowa,2009,17.2
+Kansas,1984,NA
+Kansas,1986,NA
+Kansas,1988,NA
+Kansas,1990,NA
+Kansas,1992,23
+Kansas,1993,20.2
+Kansas,1995,22
+Kansas,1996,22.1
+Kansas,1997,22.7
+Kansas,1998,21.2
+Kansas,1999,21.1
+Kansas,2000,21
+Kansas,2001,22.2
+Kansas,2002,22.1
+Kansas,2003,20.4
+Kansas,2004,19.8
+Kansas,2005,17.8
+Kansas,2006,20
+Kansas,2007,17.9
+Kansas,2008,17.8
+Kansas,2009,17.8
+Kentucky,1984,NA
+Kentucky,1986,34.7
+Kentucky,1988,34.2
+Kentucky,1990,29.1
+Kentucky,1992,28.4
+Kentucky,1993,30.1
+Kentucky,1995,27.8
+Kentucky,1996,31.6
+Kentucky,1997,30.8
+Kentucky,1998,30.8
+Kentucky,1999,29.7
+Kentucky,2000,30.5
+Kentucky,2001,30.9
+Kentucky,2002,32.6
+Kentucky,2003,30.8
+Kentucky,2004,27.5
+Kentucky,2005,28.7
+Kentucky,2006,28.5
+Kentucky,2007,28.2
+Kentucky,2008,25.2
+Kentucky,2009,25.6
+Louisiana,1984,NA
+Louisiana,1986,NA
+Louisiana,1988,NA
+Louisiana,1990,24.9
+Louisiana,1992,24.7
+Louisiana,1993,22.4
+Louisiana,1995,25.2
+Louisiana,1996,25.9
+Louisiana,1997,24.6
+Louisiana,1998,25.5
+Louisiana,1999,23.6
+Louisiana,2000,24.1
+Louisiana,2001,24.8
+Louisiana,2002,23.9
+Louisiana,2003,26.5
+Louisiana,2004,23.5
+Louisiana,2005,22.6
+Louisiana,2006,23.4
+Louisiana,2007,22.6
+Louisiana,2008,20.4
+Louisiana,2009,22.1
+Maine,1984,NA
+Maine,1986,NA
+Maine,1988,26.4
+Maine,1990,26.9
+Maine,1992,23.8
+Maine,1993,24.7
+Maine,1995,25
+Maine,1996,25.3
+Maine,1997,22.7
+Maine,1998,22.4
+Maine,1999,23.3
+Maine,2000,23.8
+Maine,2001,24
+Maine,2002,23.6
+Maine,2003,23.7
+Maine,2004,20.9
+Maine,2005,20.8
+Maine,2006,20.9
+Maine,2007,20.2
+Maine,2008,18.1
+Maine,2009,17.3
+Maryland,1984,NA
+Maryland,1986,NA
+Maryland,1988,25.1
+Maryland,1990,22
+Maryland,1992,20.8
+Maryland,1993,19.7
+Maryland,1995,21.2
+Maryland,1996,21
+Maryland,1997,20.6
+Maryland,1998,22.4
+Maryland,1999,20.3
+Maryland,2000,20.5
+Maryland,2001,21.3
+Maryland,2002,21.9
+Maryland,2003,20.1
+Maryland,2004,19.5
+Maryland,2005,18.9
+Maryland,2006,17.7
+Maryland,2007,17.1
+Maryland,2008,14.9
+Maryland,2009,15.5
+Massachusetts,1984,NA
+Massachusetts,1986,27
+Massachusetts,1988,26.4
+Massachusetts,1990,23.5
+Massachusetts,1992,23.6
+Massachusetts,1993,21.2
+Massachusetts,1995,21.7
+Massachusetts,1996,23.4
+Massachusetts,1997,20.4
+Massachusetts,1998,20.9
+Massachusetts,1999,19.4
+Massachusetts,2000,19.9
+Massachusetts,2001,19.7
+Massachusetts,2002,18.9
+Massachusetts,2003,19.1
+Massachusetts,2004,18.4
+Massachusetts,2005,18.1
+Massachusetts,2006,17.8
+Massachusetts,2007,16.4
+Massachusetts,2008,16
+Massachusetts,2009,15
+Michigan,1984,NA
+Michigan,1986,NA
+Michigan,1988,26.2
+Michigan,1990,29.1
+Michigan,1992,25.3
+Michigan,1993,25.1
+Michigan,1995,25.7
+Michigan,1996,25.6
+Michigan,1997,26.1
+Michigan,1998,27.4
+Michigan,1999,25.1
+Michigan,2000,24.1
+Michigan,2001,25.7
+Michigan,2002,24.2
+Michigan,2003,26.1
+Michigan,2004,23.2
+Michigan,2005,22
+Michigan,2006,22.4
+Michigan,2007,21.1
+Michigan,2008,20.4
+Michigan,2009,19.6
+Minnesota,1984,26.5
+Minnesota,1986,25.1
+Minnesota,1988,22.5
+Minnesota,1990,21.4
+Minnesota,1992,22
+Minnesota,1993,22.4
+Minnesota,1995,20.5
+Minnesota,1996,20.6
+Minnesota,1997,21.8
+Minnesota,1998,18
+Minnesota,1999,19.5
+Minnesota,2000,19.8
+Minnesota,2001,22.2
+Minnesota,2002,21.7
+Minnesota,2003,21.1
+Minnesota,2004,20.7
+Minnesota,2005,20
+Minnesota,2006,18.3
+Minnesota,2007,16.5
+Minnesota,2008,17.5
+Minnesota,2009,16.8
+Mississippi,1984,NA
+Mississippi,1986,NA
+Mississippi,1988,NA
+Mississippi,1990,24.1
+Mississippi,1992,24.5
+Mississippi,1993,24.1
+Mississippi,1995,24
+Mississippi,1996,23.2
+Mississippi,1997,23.2
+Mississippi,1998,24.1
+Mississippi,1999,23
+Mississippi,2000,23.5
+Mississippi,2001,25.4
+Mississippi,2002,27.3
+Mississippi,2003,25.6
+Mississippi,2004,24.5
+Mississippi,2005,23.6
+Mississippi,2006,25.1
+Mississippi,2007,23.9
+Mississippi,2008,22.7
+Mississippi,2009,23.3
+Missouri,1984,NA
+Missouri,1986,25.7
+Missouri,1988,26
+Missouri,1990,26.2
+Missouri,1992,23.7
+Missouri,1993,26.6
+Missouri,1995,24.3
+Missouri,1996,27.8
+Missouri,1997,28.7
+Missouri,1998,26.3
+Missouri,1999,27.1
+Missouri,2000,27.2
+Missouri,2001,25.9
+Missouri,2002,26.5
+Missouri,2003,27.2
+Missouri,2004,24
+Missouri,2005,23.4
+Missouri,2006,23.2
+Missouri,2007,24.5
+Missouri,2008,24.9
+Missouri,2009,23.1
+Montana,1984,28.9
+Montana,1986,23
+Montana,1988,19.7
+Montana,1990,19.4
+Montana,1992,19.3
+Montana,1993,20.4
+Montana,1995,21.1
+Montana,1996,21.7
+Montana,1997,20.5
+Montana,1998,21.5
+Montana,1999,20.2
+Montana,2000,18.8
+Montana,2001,21.9
+Montana,2002,21.2
+Montana,2003,20
+Montana,2004,20.4
+Montana,2005,19.2
+Montana,2006,18.9
+Montana,2007,19.5
+Montana,2008,18.5
+Montana,2009,16.8
+Nebraska,1984,NA
+Nebraska,1986,NA
+Nebraska,1988,20.9
+Nebraska,1990,22.7
+Nebraska,1992,17.7
+Nebraska,1993,22
+Nebraska,1995,21.9
+Nebraska,1996,22
+Nebraska,1997,22.2
+Nebraska,1998,22.1
+Nebraska,1999,23.3
+Nebraska,2000,21.2
+Nebraska,2001,20.4
+Nebraska,2002,22.7
+Nebraska,2003,21.2
+Nebraska,2004,20.2
+Nebraska,2005,21.3
+Nebraska,2006,18.7
+Nebraska,2007,19.9
+Nebraska,2008,18.3
+Nebraska,2009,16.7
+Nevada,1984,NA
+Nevada,1986,NA
+Nevada,1988,NA
+Nevada,1990,NA
+Nevada,1992,30.7
+Nevada,1993,30
+Nevada,1995,26.3
+Nevada,1996,28.2
+Nevada,1997,27.7
+Nevada,1998,30.4
+Nevada,1999,31.5
+Nevada,2000,29
+Nevada,2001,27
+Nevada,2002,26
+Nevada,2003,25.2
+Nevada,2004,23.2
+Nevada,2005,23.1
+Nevada,2006,22.2
+Nevada,2007,21.5
+Nevada,2008,22.1
+Nevada,2009,22
+New Hampshire,1984,NA
+New Hampshire,1986,NA
+New Hampshire,1988,28
+New Hampshire,1990,22
+New Hampshire,1992,23.2
+New Hampshire,1993,20.6
+New Hampshire,1995,21.4
+New Hampshire,1996,24.9
+New Hampshire,1997,24.8
+New Hampshire,1998,23.3
+New Hampshire,1999,22.4
+New Hampshire,2000,25.3
+New Hampshire,2001,24.1
+New Hampshire,2002,23.2
+New Hampshire,2003,21.2
+New Hampshire,2004,21.6
+New Hampshire,2005,20.4
+New Hampshire,2006,18.7
+New Hampshire,2007,19.3
+New Hampshire,2008,17
+New Hampshire,2009,15.8
+New Jersey,1984,NA
+New Jersey,1986,NA
+New Jersey,1988,NA
+New Jersey,1990,NA
+New Jersey,1992,20.2
+New Jersey,1993,18.9
+New Jersey,1995,19.2
+New Jersey,1996,22.8
+New Jersey,1997,21.5
+New Jersey,1998,19.2
+New Jersey,1999,20.7
+New Jersey,2000,21
+New Jersey,2001,21.3
+New Jersey,2002,19
+New Jersey,2003,19.4
+New Jersey,2004,18.8
+New Jersey,2005,18
+New Jersey,2006,18
+New Jersey,2007,17.1
+New Jersey,2008,14.7
+New Jersey,2009,17.9
+New Mexico,1984,NA
+New Mexico,1986,26.1
+New Mexico,1988,23.8
+New Mexico,1990,22.3
+New Mexico,1992,20.4
+New Mexico,1993,21.8
+New Mexico,1995,21.2
+New Mexico,1996,22.9
+New Mexico,1997,22.1
+New Mexico,1998,22.6
+New Mexico,1999,22.5
+New Mexico,2000,23.6
+New Mexico,2001,23.9
+New Mexico,2002,21.2
+New Mexico,2003,22
+New Mexico,2004,20.3
+New Mexico,2005,21.5
+New Mexico,2006,20.1
+New Mexico,2007,20.8
+New Mexico,2008,19.3
+New Mexico,2009,18
+New York,1984,NA
+New York,1986,27
+New York,1988,23.9
+New York,1990,22.5
+New York,1992,22.9
+New York,1993,23.5
+New York,1995,21.5
+New York,1996,23.3
+New York,1997,23.1
+New York,1998,24.3
+New York,1999,21.9
+New York,2000,21.6
+New York,2001,23.4
+New York,2002,22.3
+New York,2003,21.6
+New York,2004,19.9
+New York,2005,20.5
+New York,2006,18.2
+New York,2007,18.9
+New York,2008,16.7
+New York,2009,18
+North Carolina,1984,28.6
+North Carolina,1986,26.5
+North Carolina,1988,26.2
+North Carolina,1990,28
+North Carolina,1992,26.7
+North Carolina,1993,25.8
+North Carolina,1995,25.8
+North Carolina,1996,25.7
+North Carolina,1997,25.8
+North Carolina,1998,24.7
+North Carolina,1999,25.2
+North Carolina,2000,26.1
+North Carolina,2001,25.9
+North Carolina,2002,26.3
+North Carolina,2003,24.8
+North Carolina,2004,23.1
+North Carolina,2005,22.6
+North Carolina,2006,22.1
+North Carolina,2007,22.9
+North Carolina,2008,20.9
+North Carolina,2009,20.3
+North Dakota,1984,NA
+North Dakota,1986,26
+North Dakota,1988,22.1
+North Dakota,1990,20.3
+North Dakota,1992,23.2
+North Dakota,1993,19.6
+North Dakota,1995,22.7
+North Dakota,1996,23.4
+North Dakota,1997,22.2
+North Dakota,1998,20
+North Dakota,1999,22.2
+North Dakota,2000,23.2
+North Dakota,2001,22.1
+North Dakota,2002,21.5
+North Dakota,2003,20.5
+North Dakota,2004,19.8
+North Dakota,2005,20.1
+North Dakota,2006,19.5
+North Dakota,2007,20.9
+North Dakota,2008,18.1
+North Dakota,2009,18.6
+Ohio,1984,28.7
+Ohio,1986,28
+Ohio,1988,26.2
+Ohio,1990,26.1
+Ohio,1992,23.9
+Ohio,1993,25.3
+Ohio,1995,26
+Ohio,1996,28.5
+Ohio,1997,25.1
+Ohio,1998,26.2
+Ohio,1999,27.6
+Ohio,2000,26.2
+Ohio,2001,27.7
+Ohio,2002,26.6
+Ohio,2003,25.2
+Ohio,2004,25.8
+Ohio,2005,22.3
+Ohio,2006,22.4
+Ohio,2007,23.1
+Ohio,2008,20.1
+Ohio,2009,20.3
+Oklahoma,1984,NA
+Oklahoma,1986,NA
+Oklahoma,1988,24.2
+Oklahoma,1990,26.6
+Oklahoma,1992,26.7
+Oklahoma,1993,26.6
+Oklahoma,1995,21.7
+Oklahoma,1996,24.1
+Oklahoma,1997,24.6
+Oklahoma,1998,23.8
+Oklahoma,1999,25.2
+Oklahoma,2000,23.3
+Oklahoma,2001,28.8
+Oklahoma,2002,26.6
+Oklahoma,2003,25.1
+Oklahoma,2004,26
+Oklahoma,2005,25.1
+Oklahoma,2006,25.1
+Oklahoma,2007,25.8
+Oklahoma,2008,24.7
+Oklahoma,2009,25.5
+Oregon,1984,NA
+Oregon,1986,NA
+Oregon,1988,NA
+Oregon,1990,21.9
+Oregon,1992,21.1
+Oregon,1993,21.6
+Oregon,1995,21.8
+Oregon,1996,23.5
+Oregon,1997,20.7
+Oregon,1998,21.1
+Oregon,1999,21.5
+Oregon,2000,20.7
+Oregon,2001,20.5
+Oregon,2002,22.4
+Oregon,2003,20.9
+Oregon,2004,20
+Oregon,2005,18.5
+Oregon,2006,18.5
+Oregon,2007,16.9
+Oregon,2008,16.3
+Oregon,2009,17.9
+Pennsylvania,1984,NA
+Pennsylvania,1986,NA
+Pennsylvania,1988,NA
+Pennsylvania,1990,23.6
+Pennsylvania,1992,24.7
+Pennsylvania,1993,22.6
+Pennsylvania,1995,24.2
+Pennsylvania,1996,24.5
+Pennsylvania,1997,24.3
+Pennsylvania,1998,23.8
+Pennsylvania,1999,23.2
+Pennsylvania,2000,24.3
+Pennsylvania,2001,24.6
+Pennsylvania,2002,24.5
+Pennsylvania,2003,25.4
+Pennsylvania,2004,22.7
+Pennsylvania,2005,23.6
+Pennsylvania,2006,21.5
+Pennsylvania,2007,21
+Pennsylvania,2008,21.3
+Pennsylvania,2009,20.2
+Rhode Island,1984,31.3
+Rhode Island,1986,30.2
+Rhode Island,1988,24.3
+Rhode Island,1990,25.7
+Rhode Island,1992,22.5
+Rhode Island,1993,23.3
+Rhode Island,1995,24.7
+Rhode Island,1996,22.5
+Rhode Island,1997,24.2
+Rhode Island,1998,22.7
+Rhode Island,1999,22.4
+Rhode Island,2000,23.4
+Rhode Island,2001,24
+Rhode Island,2002,22.4
+Rhode Island,2003,22.4
+Rhode Island,2004,21.3
+Rhode Island,2005,19.8
+Rhode Island,2006,19.2
+Rhode Island,2007,17
+Rhode Island,2008,17.3
+Rhode Island,2009,15.1
+South Carolina,1984,26.2
+South Carolina,1986,26.5
+South Carolina,1988,25.6
+South Carolina,1990,24.9
+South Carolina,1992,27.8
+South Carolina,1993,24.2
+South Carolina,1995,23.7
+South Carolina,1996,24.5
+South Carolina,1997,23.4
+South Carolina,1998,24.7
+South Carolina,1999,23.6
+South Carolina,2000,24.9
+South Carolina,2001,26.2
+South Carolina,2002,26.6
+South Carolina,2003,25.5
+South Carolina,2004,24.3
+South Carolina,2005,22.5
+South Carolina,2006,22.3
+South Carolina,2007,21.9
+South Carolina,2008,20
+South Carolina,2009,20.4
+South Dakota,1984,NA
+South Dakota,1986,NA
+South Dakota,1988,21.1
+South Dakota,1990,20.7
+South Dakota,1992,22.4
+South Dakota,1993,21.1
+South Dakota,1995,21.8
+South Dakota,1996,20.7
+South Dakota,1997,24.3
+South Dakota,1998,27.3
+South Dakota,1999,22.5
+South Dakota,2000,21.9
+South Dakota,2001,22.4
+South Dakota,2002,22.6
+South Dakota,2003,22.7
+South Dakota,2004,20.3
+South Dakota,2005,19.8
+South Dakota,2006,20.3
+South Dakota,2007,19.8
+South Dakota,2008,17.5
+South Dakota,2009,17.5
+Tennessee,1984,25.1
+Tennessee,1986,28
+Tennessee,1988,29.8
+Tennessee,1990,26.7
+Tennessee,1992,26.9
+Tennessee,1993,26.3
+Tennessee,1995,26.5
+Tennessee,1996,28
+Tennessee,1997,26.9
+Tennessee,1998,26.1
+Tennessee,1999,24.9
+Tennessee,2000,25.7
+Tennessee,2001,24.4
+Tennessee,2002,27.7
+Tennessee,2003,25.6
+Tennessee,2004,26.1
+Tennessee,2005,26.7
+Tennessee,2006,22.6
+Tennessee,2007,24.3
+Tennessee,2008,23.1
+Tennessee,2009,22
+Texas,1984,NA
+Texas,1986,NA
+Texas,1988,23.7
+Texas,1990,22.9
+Texas,1992,22.4
+Texas,1993,23.8
+Texas,1995,23.7
+Texas,1996,22.9
+Texas,1997,22.6
+Texas,1998,22
+Texas,1999,22.4
+Texas,2000,21.9
+Texas,2001,22.5
+Texas,2002,22.9
+Texas,2003,22.1
+Texas,2004,20.4
+Texas,2005,20
+Texas,2006,17.9
+Texas,2007,19.3
+Texas,2008,18.5
+Texas,2009,17.9
+Utah,1984,16.1
+Utah,1986,18.2
+Utah,1988,14.7
+Utah,1990,16.8
+Utah,1992,15.7
+Utah,1993,14.4
+Utah,1995,13.2
+Utah,1996,15.9
+Utah,1997,13.7
+Utah,1998,14.2
+Utah,1999,13.9
+Utah,2000,12.9
+Utah,2001,13.3
+Utah,2002,12.8
+Utah,2003,11.9
+Utah,2004,10.4
+Utah,2005,11.5
+Utah,2006,9.8
+Utah,2007,11.7
+Utah,2008,9.3
+Utah,2009,9.8
+Vermont,1984,NA
+Vermont,1986,NA
+Vermont,1988,NA
+Vermont,1990,21.6
+Vermont,1992,21.7
+Vermont,1993,21.3
+Vermont,1995,22.1
+Vermont,1996,24.1
+Vermont,1997,23.2
+Vermont,1998,22.3
+Vermont,1999,21.8
+Vermont,2000,21.5
+Vermont,2001,22.4
+Vermont,2002,21.1
+Vermont,2003,19.5
+Vermont,2004,19.9
+Vermont,2005,19.3
+Vermont,2006,18
+Vermont,2007,17.6
+Vermont,2008,16.7
+Vermont,2009,17.1
+Virginia,1984,NA
+Virginia,1986,NA
+Virginia,1988,NA
+Virginia,1990,22.6
+Virginia,1992,23.5
+Virginia,1993,23.3
+Virginia,1995,22
+Virginia,1996,24.8
+Virginia,1997,24.6
+Virginia,1998,22.9
+Virginia,1999,21.2
+Virginia,2000,21.4
+Virginia,2001,22.5
+Virginia,2002,24.6
+Virginia,2003,22
+Virginia,2004,20.8
+Virginia,2005,20.6
+Virginia,2006,19.3
+Virginia,2007,18.5
+Virginia,2008,16.4
+Virginia,2009,19
+Washington,1984,NA
+Washington,1986,NA
+Washington,1988,24.6
+Washington,1990,22.3
+Washington,1992,21.8
+Washington,1993,22.5
+Washington,1995,20.2
+Washington,1996,23.5
+Washington,1997,23.9
+Washington,1998,21.4
+Washington,1999,22.4
+Washington,2000,20.7
+Washington,2001,22.6
+Washington,2002,21.5
+Washington,2003,19.5
+Washington,2004,19.2
+Washington,2005,17.6
+Washington,2006,17.1
+Washington,2007,16.8
+Washington,2008,15.7
+Washington,2009,14.9
+West Virginia,1984,32.8
+West Virginia,1986,29.1
+West Virginia,1988,26.7
+West Virginia,1990,26.6
+West Virginia,1992,24.8
+West Virginia,1993,26.8
+West Virginia,1995,25.7
+West Virginia,1996,26.7
+West Virginia,1997,27.4
+West Virginia,1998,27.9
+West Virginia,1999,27.1
+West Virginia,2000,26.1
+West Virginia,2001,28.2
+West Virginia,2002,28.4
+West Virginia,2003,27.3
+West Virginia,2004,26.8
+West Virginia,2005,26.7
+West Virginia,2006,25.7
+West Virginia,2007,26.9
+West Virginia,2008,26.5
+West Virginia,2009,25.6
+Wisconsin,1984,27.4
+Wisconsin,1986,26
+Wisconsin,1988,24.3
+Wisconsin,1990,24.7
+Wisconsin,1992,23.8
+Wisconsin,1993,22.9
+Wisconsin,1995,21.8
+Wisconsin,1996,24.9
+Wisconsin,1997,23.2
+Wisconsin,1998,23.4
+Wisconsin,1999,23.7
+Wisconsin,2000,24.1
+Wisconsin,2001,23.6
+Wisconsin,2002,23.3
+Wisconsin,2003,22
+Wisconsin,2004,21.9
+Wisconsin,2005,20.7
+Wisconsin,2006,20.8
+Wisconsin,2007,19.6
+Wisconsin,2008,19.8
+Wisconsin,2009,18.8
+Wyoming,1984,NA
+Wyoming,1986,NA
+Wyoming,1988,NA
+Wyoming,1990,NA
+Wyoming,1992,NA
+Wyoming,1993,NA
+Wyoming,1995,22
+Wyoming,1996,24.6
+Wyoming,1997,24
+Wyoming,1998,22.8
+Wyoming,1999,23.9
+Wyoming,2000,23.8
+Wyoming,2001,22.2
+Wyoming,2002,23.7
+Wyoming,2003,24.6
+Wyoming,2004,21.7
+Wyoming,2005,21.3
+Wyoming,2006,21.6
+Wyoming,2007,22.1
+Wyoming,2008,19.3
+Wyoming,2009,19.9

@@ -1,0 +1,229 @@
+country,fertility_rate,life_expectancy,region,population
+Algeria,2.74,76.8,Africa,40263711
+Angola,5.31,56,Africa,20172332
+Benin,4.86,61.9,Africa,10741458
+Botswana,2.3,54.5,Africa,2209208
+Burkina Faso,5.79,55.5,Africa,19512533
+Burundi,6.04,60.5,Africa,11099298
+Cabo Verde,2.26,72.1,Africa,553432
+Cameroon,4.7,58.5,Africa,24360803
+Central African Republic,4.36,52.3,Africa,5507257
+Chad,4.45,50.2,Africa,11852462
+Comoros,3.47,64.2,Africa,794678
+Congo (Brazzaville),4.63,59.3,Africa,4852412
+Congo (Kinshasa),4.53,57.3,Africa,81331050
+Cote d'Ivoire,3.46,58.7,Africa,23740424
+Djibouti,2.35,63.2,Africa,846687
+Egypt,3.53,72.7,Africa,94666993
+Equatorial Guinea,4.48,64.2,Africa,759451
+Eritrea,4.07,64.9,Africa,5869869
+Ethiopia,5.07,62.2,Africa,102374044
+Gabon,4.43,52.1,Africa,1738541
+"Gambia, The",3.63,64.9,Africa,2009648
+Ghana,4.03,66.6,Africa,26908262
+Guinea,4.82,60.6,Africa,12093349
+Guinea-Bissau,4.16,50.6,Africa,1759159
+Kenya,3.14,64,Africa,46790758
+Lesotho,2.68,53,Africa,1953070
+Liberia,4.6,59,Africa,4299944
+Libya,2.04,76.5,Africa,6541948
+Madagascar,4.12,65.9,Africa,24430325
+Malawi,5.54,61.2,Africa,18570321
+Mali,5.95,55.8,Africa,17467108
+Mauritania,3.93,63,Africa,3677293
+Mauritius,1.75,75.6,Africa,1348242
+Morocco,2.12,76.9,Africa,33655786
+Mozambique,5.15,53.3,Africa,25930150
+Namibia,3.36,63.6,Africa,2436469
+Niger,6.62,55.5,Africa,18638600
+Nigeria,5.13,53.4,Africa,186053386
+Rwanda,4.46,60.1,Africa,12988423
+Saint Helena,1.58,79.5,Africa,7813
+Sao Tome and Principe,4.4,64.9,Africa,197541
+Senegal,4.36,61.7,Africa,14320055
+Seychelles,1.86,74.7,Africa,93186
+Sierra Leone,4.76,58.2,Africa,6018888
+Somalia,5.89,52.4,Africa,10817354
+South Africa,2.31,63.1,Africa,54300704
+South Sudan,5.19,61.2,Africa,12530717
+Sudan,3.68,64.1,Africa,36729501
+Swaziland,2.74,51.6,Africa,1451428
+Tanzania,4.83,62.2,Africa,52482726
+Togo,4.43,65,Africa,7756937
+Tunisia,1.98,76.1,Africa,11134588
+Uganda,5.8,55.4,Africa,38319241
+Western Sahara,3.93,63,Africa,587020
+Zambia,5.67,52.5,Africa,15510711
+Zimbabwe,3.5,58,Africa,14546961
+Afghanistan,5.22,51.3,Asia,33332025
+Armenia,1.64,74.6,Asia,3051250
+Azerbaijan,1.9,72.5,Asia,9872765
+Bahrain,1.77,78.9,Asia,1378904
+Bangladesh,2.19,73.2,Asia,156186882
+Bhutan,1.93,70.1,Asia,750125
+Brunei,1.79,77.2,Asia,436620
+Burma,2.15,66.6,Asia,56890418
+Cambodia,2.56,64.5,Asia,15957223
+China,1.6,75.5,Asia,1373541278
+Cyprus,1.47,78.7,Asia,1205575
+Gaza Strip,4.3,73.9,Asia,1753327
+Georgia,1.76,76.2,Asia,4928052
+Hong Kong,1.19,82.9,Asia,7167403
+India,2.45,68.5,Asia,1266883598
+Indonesia,2.13,72.7,Asia,258316051
+Iran,1.83,71.4,Asia,82801633
+Iraq,4.06,74.9,Asia,38146025
+Israel,2.66,82.4,Asia,8174527
+Japan,1.41,85,Asia,126702133
+Jordan,3.18,74.6,Asia,8185384
+Kazakhstan,2.28,70.8,Asia,18360353
+"Korea, North",1.96,70.4,Asia,25115311
+"Korea, South",1.25,82.4,Asia,50924172
+Kuwait,2.44,78,Asia,2832776
+Kyrgyzstan,2.64,70.7,Asia,5727553
+Laos,2.76,64.3,Asia,7019073
+Lebanon,1.73,77.6,Asia,6237738
+Macau,0.94,84.5,Asia,597425
+Malaysia,2.53,75,Asia,30949962
+Maldives,1.73,75.6,Asia,392960
+Mongolia,2.13,69.6,Asia,3031330
+Nepal,2.18,70.7,Asia,29033914
+Oman,2.84,75.5,Asia,3355262
+Pakistan,2.68,67.7,Asia,201995540
+Philippines,3.06,69.2,Asia,102624209
+Qatar,1.9,78.7,Asia,2258283
+Saudi Arabia,2.11,75.3,Asia,28160273
+Singapore,0.82,85,Asia,5781728
+Sri Lanka,2.09,76.8,Asia,22235000
+Syria,2.55,74.9,Asia,17185170
+Taiwan,1.12,80.1,Asia,23464787
+Tajikistan,2.67,67.7,Asia,8330946
+Thailand,1.51,74.7,Asia,68200824
+Timor-Leste,4.9,68.1,Asia,1261072
+Turkey,2.03,74.8,Asia,80274604
+Turkmenistan,2.08,70.1,Asia,5291317
+United Arab Emirates,2.33,77.5,Asia,5927482
+Uzbekistan,1.78,73.8,Asia,29473614
+Vietnam,1.82,73.4,Asia,95261021
+West Bank,3.33,75,Asia,2697687
+Yemen,3.77,65.5,Asia,27392779
+Albania,1.51,78.3,Europe,3038594
+Andorra,1.39,82.8,Europe,85660
+Austria,1.47,81.5,Europe,8711770
+Belarus,1.48,72.7,Europe,9570376
+Belgium,1.78,81,Europe,11409077
+Bosnia and Herzegovina,1.28,76.7,Europe,3861912
+Bulgaria,1.46,74.5,Europe,7144653
+Croatia,1.39,75.9,Europe,4313707
+Czechia,1.45,78.6,Europe,10660932
+Denmark,1.73,79.4,Europe,5593785
+Estonia,1.6,76.7,Europe,1258545
+Faroe Islands,2.36,80.4,Europe,50456
+Finland,1.75,80.9,Europe,5498211
+France,2.07,81.8,Europe,66836154
+Germany,1.44,80.7,Europe,80722792
+Gibraltar,1.91,79.4,Europe,29328
+Greece,1.42,80.5,Europe,10773253
+Guernsey,1.56,82.5,Europe,66297
+Hungary,1.44,75.9,Europe,9874784
+Iceland,2.01,83,Europe,335878
+Ireland,1.98,80.8,Europe,4952473
+Isle of Man,1.93,81.2,Europe,88195
+Italy,1.43,82.2,Europe,62007540
+Jersey,1.66,81.9,Europe,98069
+Kosovo,2.06,71.6,Europe,1883018
+Latvia,1.51,74.5,Europe,1965686
+Liechtenstein,1.69,81.9,Europe,37937
+Lithuania,1.59,74.9,Europe,2854235
+Luxembourg,1.61,82.3,Europe,582291
+Macedonia,1.6,76.2,Europe,2100025
+Malta,1.55,80.4,Europe,415196
+Moldova,1.56,70.7,Europe,3510485
+Monaco,1.53,89.5,Europe,30581
+Montenegro,1.52,78.6,Europe,644578
+Netherlands,1.78,81.3,Europe,17016967
+Norway,1.86,81.8,Europe,5265158
+Poland,1.34,77.6,Europe,38523261
+Portugal,1.53,79.3,Europe,10833816
+Romania,1.34,75.1,Europe,21599736
+Russia,1.61,70.8,Europe,142355415
+San Marino,1.5,83.3,Europe,33285
+Serbia,1.43,75.5,Europe,7143921
+Slovakia,1.4,77.1,Europe,5445802
+Slovenia,1.35,78.2,Europe,1978029
+Spain,1.49,81.7,Europe,48563476
+Sweden,1.88,82.1,Europe,9880604
+Switzerland,1.55,82.6,Europe,8179294
+Ukraine,1.54,71.8,Europe,44209733
+United Kingdom,1.89,80.7,Europe,64430428
+Anguilla,1.75,81.4,The Americas,16752
+Antigua and Barbuda,2.01,76.5,The Americas,93581
+Argentina,2.28,77.1,The Americas,43886748
+Aruba,1.84,76.8,The Americas,113648
+"Bahamas, The",1.95,72.4,The Americas,327316
+Barbados,1.68,75.3,The Americas,291495
+Belize,2.9,68.7,The Americas,353858
+Bolivia,2.68,69.2,The Americas,10969649
+Brazil,1.76,73.8,The Americas,205823665
+Cayman Islands,1.85,81.2,The Americas,57268
+Chile,1.81,78.8,The Americas,17650114
+Colombia,2.02,75.7,The Americas,47220856
+Costa Rica,1.9,78.6,The Americas,4872543
+Cuba,1.71,78.7,The Americas,11179995
+Curacao,2.06,78.3,The Americas,149035
+Dominica,2.04,77,The Americas,73757
+Dominican Republic,2.31,78.1,The Americas,10606865
+Ecuador,2.22,76.8,The Americas,16080778
+El Salvador,1.89,74.7,The Americas,6156670
+Grenada,2.04,74.3,The Americas,111219
+Guatemala,2.83,72.3,The Americas,15189958
+Guyana,2.04,68.4,The Americas,735909
+Haiti,2.79,63.8,The Americas,10485800
+Honduras,2.72,71.1,The Americas,8893259
+Jamaica,1.99,73.6,The Americas,2970340
+Mexico,2.25,75.9,The Americas,123166749
+Montserrat,1.31,74.4,The Americas,5267
+Nicaragua,1.92,73.2,The Americas,5966798
+Panama,2.33,78.6,The Americas,3705246
+Paraguay,1.91,77.2,The Americas,6862812
+Peru,2.15,73.7,The Americas,30741062
+Puerto Rico,1.64,79.4,The Americas,3578056
+Saint Barthelemy,1.63,79.6,The Americas,7209
+Saint Kitts and Nevis,1.78,75.7,The Americas,52329
+Saint Lucia,1.75,77.8,The Americas,164464
+Saint Martin,1.81,79.6,The Americas,31949
+Saint Vincent and the Grenadines,1.81,75.3,The Americas,102350
+Sint Maarten,2.06,78.1,The Americas,41486
+Suriname,1.95,72.2,The Americas,585824
+Trinidad and Tobago,1.71,72.9,The Americas,1220479
+Turks and Caicos Islands,1.7,79.8,The Americas,51430
+Uruguay,1.81,77.2,The Americas,3351016
+Venezuela,2.35,75.8,The Americas,30912302
+"Virgin Islands, British",1.28,78.6,The Americas,34232
+"Virgin Islands, U.S.",1.73,80,The Americas,102951
+Bermuda,1.94,81.3,The Americas,70537
+Canada,1.6,81.9,The Americas,35362905
+Greenland,2.01,72.4,The Americas,57728
+Saint Pierre and Miquelon,1.57,80.5,The Americas,5595
+United States,1.87,79.8,The Americas,323995528
+American Samoa,2.87,75.4,Asia,54194
+Australia,1.77,82.2,Asia,22992654
+Cook Islands,2.21,75.8,Asia,9556
+Fiji,2.44,72.7,Asia,915303
+French Polynesia,1.9,77.2,Asia,285321
+Guam,2.31,79.1,Asia,162742
+Kiribati,2.43,66.2,Asia,106925
+Marshall Islands,3.09,73.1,Asia,73376
+"Micronesia, Federated States of",2.45,72.9,Asia,104719
+Nauru,2.84,67.1,Asia,9591
+New Caledonia,1.95,77.7,Asia,275355
+New Zealand,2.03,81.2,Asia,4474549
+Northern Mariana Islands,1.96,78,Asia,53467
+Palau,1.71,73.1,Asia,21347
+Papua New Guinea,3.1,67.2,Asia,6791317
+Samoa,2.77,73.7,Asia,198926
+Solomon Islands,3.22,75.3,Asia,635027
+Tonga,3.18,76.2,Asia,106513
+Tuvalu,2.98,66.5,Asia,10959
+Vanuatu,3.16,73.4,Asia,277554
+Wallis and Futuna,1.74,79.7,Asia,15664
